@@ -1,4 +1,27 @@
-## Hi there 👋
+### Hi there 👋
+
+## About me
+<h1 align="center">Hi 👋, I'm Filippo</h1>
+
+- 👨‍💻 I’m currently studing in **42 Málaga**
+
+- 🦧 I’m currently learning **C**
+
+- 🔮 Ask me about **C, C++, Shell (bash & zsh)**
+
+- 📫 How to reach me **saffirio.filippo@gmail.com**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+## 42 Cursus Stats
+[![fsaffiri's 42 stats](https://badge.mediaplus.ma/kettlebells/fsaffiri?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+## Github stats
+![fsaffiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhoinZ&show_icons=true&theme=radical)
 
 <!--
 **JhoinZ/JhoinZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
